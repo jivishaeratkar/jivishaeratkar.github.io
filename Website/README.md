@@ -1,4 +1,4 @@
-##This is my first project
+#This is my first project
 
 To open this website:
-#jivishaeratkar.github.io/Website/
+jivishaeratkar.github.io/Website/
